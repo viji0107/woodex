@@ -13,7 +13,6 @@
 
   Woodex is a fully responsive furniture ecommerce website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/woodex/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
